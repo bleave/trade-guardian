@@ -1,0 +1,42 @@
+# Build output
+bin/
+obj/
+out/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.swp
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nupkg
+*.snupkg
+*.pdb
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+.coverage/
+
+# Misc
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+
