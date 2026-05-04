@@ -1,4 +1,4 @@
-# TradeGuardian
+# Trade Guardian
 
 A discipline-enforcement **strategy** for the [Quantower](https://www.quantower.com/) platform — _"Trade Guardian + Revenge Guard."_
 
@@ -11,9 +11,9 @@ Watches your live positions and trade flow, and surfaces invalidation / over-tra
 - Bar-close vs. intrabar evaluation modes
 - Hooks for revenge-trading detection (rapid re-entry after a loss)
 
-## Use with TradeGuardianOverlay
+## Use with Trade Guardian Overlay
 
-This is the headless rules engine. Pair it with [TradeGuardianOverlay](https://github.com/bleave/TradeGuardianOverlay) on the chart to actually _see_ the warnings.
+This is the headless rules engine. Pair it with [Trade Guardian Overlay](https://github.com/bleave/trade-guardian-overlay) on the chart to actually _see_ the warnings.
 
 ## Build
 
